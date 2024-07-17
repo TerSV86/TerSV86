@@ -2,7 +2,7 @@
 <h3 align="left">Программирование для меня - это возможность создавать что-то новое, решать сложные задачи и постоянно развиваться, обучаясь новым технологиям.</h3>
 
 - Изучал Web-технологии на курсе "Веб-разработчик плюс" на платформе Яндекс Практикума.
-- Сейчас активно ищу работу. [Ссылка на резюмe](https://1.ru)
+- Сейчас активно ищу работу. [Ссылка на резюмe]([https://1.ru](https://plast.hh.ru/applicant/resumes/view?resume=74066cf1ff0d77703d0039ed1f4537794c3633))
 - Со мной можно связаться:
   - **terpugov.workdir@yandex.ru**
   - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TerpugovSV)
